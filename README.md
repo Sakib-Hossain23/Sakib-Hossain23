@@ -78,6 +78,6 @@ I’m a passionate developer who loves to create beautiful, functional web & app
         <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"width="90"/>
     </a>
     <a href="https://github.com/Sakib-Hossain23/" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"width="90"/>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"width="79"/>
     </a>
 </div>
